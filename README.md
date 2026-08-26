@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">
+  <span style="color:#00EFD1;">👋 Hi, I'm Sukhamay!</span>
+</h1>
 
-<!--
-**Sukhamay07/Sukhamay07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <span style="color:#8A2BE2;">🎓</span>
+  <b style="color:#FFD700;">MCA Student</b>
+  &nbsp; | &nbsp;
+  <span style="color:#00BFFF;">🏫</span>
+  <b style="color:#00FF90;">Adamas University</b>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h5 align="center">
+  <span style="color:#FF6EC7;">🌱</span>
+  <i style="color:#FFA500;">
+    Currently improving my programming skills and building projects!
+  </i>
+  <span style="color:#00BFFF;">💧</span>
+</h5>
